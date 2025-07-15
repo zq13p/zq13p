@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thilo</h1>
-<h3 align="center">A passionate Webdeveloper</h3>
+<h3 align="center">A passionate Developer</h3>
 
 - 🔭 I’m currently working on [my portfoliosite](https://www.thiloahle.de)
 
